@@ -92,10 +92,10 @@ Appearances of the counted affixes in the *Yukar* (epics):
 
 Initial usage percentages:
 
-|        |*uwepeker*|*Yukar* |
-|--------|----------|--------|
-|p.loc   |    89.8 %|  68.5 %|
-|p.goal  |    10.2 %|  31.5 %|
+|            |*uwepeker*|*Yukar* |
+|------------|----------|--------|
+|Postposition|    89.8 %|  68.5 %|
+|Applicative |    10.2 %|  31.5 %|
 
 
 ## Analysis
@@ -104,10 +104,10 @@ From a quick glance at the data, one thing is apparent in relation to the distri
 
 Adjusted usage percentages:
 
-|        |*uwepeker*|*Yukar* |
-|--------|----------|--------|
-|p.loc   |    82.9 %|  64.0 %|
-|p.goal  |    17.1 %| 35.94 %|
+|            |*uwepeker*|*Yukar* |
+|------------|----------|--------|
+|Postposition|    82.9 %|  64.0 %|
+|Applicative |    17.1 %| 35.94 %|
 
 Even when limiting the scope to instances of oblique arguments encoding a physical location only, there is a substantial difference in the usage rates between the *Yukar* and the *uwepeker*.  This appears to support Bugaeva’s claims about the relatively more frequent use of the applicative in the *Yukar*.
 
